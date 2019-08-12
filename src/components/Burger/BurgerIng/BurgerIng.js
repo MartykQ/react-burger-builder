@@ -22,7 +22,7 @@ class BurgerIng extends React.Component {
                     </div>
                 );
                 break;
-            case ('meet'):
+            case ('meat'):
                 ingredient = <div className={styles.Meat}></div>;
                 break;
             case ('cheese'):
