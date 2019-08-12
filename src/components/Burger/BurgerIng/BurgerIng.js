@@ -31,7 +31,7 @@ class BurgerIng extends React.Component {
             case ('salad'):
                 ingredient = <div className={styles.Salad}></div>
                 break;
-            case ('bacon'):
+            case ('beacon'):
                 ingredient = <div className={styles.Bacon}></div>
                 break;
             default:
